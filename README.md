@@ -377,6 +377,11 @@ https://en.cppreference.com/w/cpp/filesystem/filesystem_error
 C++ std::filesystem::filesystem_error exception trying to read system volume information, etc - Stack Overflow
 https://stackoverflow.com/questions/62988629/c-stdfilesystemfilesystem-error-exception-trying-to-read-system-volume-inf
 
+
+#### Permissions on Linux
+
+1 - https://www.ochobitshacenunbyte.com/2019/05/09/anadir-permisos-de-ejecucion-a-un-script-en-linux/
+
 terminate called after throwing an instance of 'std::filesystem::__cxx11::filesystem_error' · Issue #2856 · bpftrace/bpftrace
 https://github.com/bpftrace/bpftrace/issues/2856
 
