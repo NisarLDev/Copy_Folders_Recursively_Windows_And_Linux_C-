@@ -14,6 +14,10 @@ To copy the files to linux, write the path without quotation marks, not singles 
 
  3 - Execute binary file
 
+ 4 - Select the original folder path on the screen
+
+ 5 - Select the destination folder path on the screen
+
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
 
