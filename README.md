@@ -341,6 +341,12 @@ https://www.youtube.com/watch?v=QfglM8DGEgA
 
 ### For Linux Operating System
 
+#### Permissions on Linux
+
+1 - https://www.ochobitshacenunbyte.com/2019/05/09/anadir-permisos-de-ejecucion-a-un-script-en-linux/
+
+### Other Bibliography for Linux and C++
+
 c++ - Compile C++17 code on RedHat Linux Enterprise Developer Workstation - Stack Overflow
 https://stackoverflow.com/questions/51255738/compile-c17-code-on-redhat-linux-enterprise-developer-workstation
 
@@ -376,11 +382,6 @@ https://en.cppreference.com/w/cpp/filesystem/filesystem_error
 
 C++ std::filesystem::filesystem_error exception trying to read system volume information, etc - Stack Overflow
 https://stackoverflow.com/questions/62988629/c-stdfilesystemfilesystem-error-exception-trying-to-read-system-volume-inf
-
-
-#### Permissions on Linux
-
-1 - https://www.ochobitshacenunbyte.com/2019/05/09/anadir-permisos-de-ejecucion-a-un-script-en-linux/
 
 terminate called after throwing an instance of 'std::filesystem::__cxx11::filesystem_error' · Issue #2856 · bpftrace/bpftrace
 https://github.com/bpftrace/bpftrace/issues/2856
@@ -459,5 +460,3 @@ https://www.youtube.com/watch?v=9Z6mWJXR-6M
 
 C++ Crash Course: File I/O Using fstream - YouTube
 https://www.youtube.com/watch?v=QfglM8DGEgA
-
-
