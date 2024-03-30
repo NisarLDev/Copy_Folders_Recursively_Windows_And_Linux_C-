@@ -12,7 +12,7 @@ To copy the files to linux, write the path without quotation marks, not singles 
 
  2 - Change permissions, add execution permissions: chmod +x binary file
 
- 3 - Executing binary file
+ 3 - Execute binary file
 
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
