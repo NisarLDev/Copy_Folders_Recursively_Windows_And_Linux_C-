@@ -6,7 +6,16 @@ These programs only copy folders recursively. They don't change their permission
 To copy the files to linux, write the path without quotation marks, not singles and not doubles.
 
 
+ To compile the programme on Linux:
 
+ 1 - g++ name with quotes "Copy_on_Linux.cpp" -o name without quotes 
+
+ 2 - Change permissions, add execution permissions: chmod +x binary file
+
+ 3 - Executing binary file
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 
 ### Bibliography
 
