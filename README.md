@@ -18,6 +18,7 @@ To copy the files to linux, write the path without quotation marks, not singles 
 
  5 - Select the destination folder path on the screen
 
+ 6 - Operation is finished
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
 
