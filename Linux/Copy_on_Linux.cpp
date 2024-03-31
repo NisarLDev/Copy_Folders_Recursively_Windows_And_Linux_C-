@@ -3,9 +3,9 @@
 #include <string>
 #include <system_error>
 
+using namespace std;
 
 int main(){
-         using namespace std;
          string route;
          string destination;
          cout << "Directory path. Enter the location of the origin without quotes.: " << endl;
