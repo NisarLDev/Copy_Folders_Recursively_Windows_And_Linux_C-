@@ -10,18 +10,17 @@ int main(){
          string destination;
          cout << "Directory path. Enter the location of the origin without quotes.: " << endl;
          cout << "To copy the files to linux, write the path without quotation marks, not singles and not doubles." << endl;
-         // Taking string input using getline() 
-         getline(cin, route); 
-         // Displaying string 
-         cout << "The location of the origin is : "; 
-         cout << route << endl;  
+         // Taking string input using getline()
+         getline(cin, route);
+         // Displaying string
+         cout << "The location of the origin is : ";
+         cout << route << endl;
          cout << "Directory path. Enter the location of the destination.: " << endl;
          // Taking string input using getline()
          getline(cin, destination);
          cout << "The location of the destination is : ";
-         cout << destination << endl;   
+         cout << destination << endl;
          const std::filesystem::path from{route}, to{destination};
- 
     try
     {
       	std::filesystem::copy(from, to); // throws: files do not exist
