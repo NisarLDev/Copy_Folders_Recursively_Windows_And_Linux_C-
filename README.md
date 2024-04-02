@@ -471,4 +471,9 @@ https://www.codingame.com/playgrounds/51214/manejo-dinamico-de-memoria-y-polimor
 
 
 Using Pragma For Compile Optimization
+
 https://www.codingame.com/playgrounds/58302/using-pragma-for-compile-optimization
+
+Liberar memoria c++ (delete)
+
+https://es.stackoverflow.com/questions/119713/liberar-memoria-c-delete
