@@ -3,7 +3,7 @@
 --------------------------------------------------------------------------------------------------
 ##### These programs only copy folders recursively. They don't change their permissions. 
 --------------------------------------------------------------------------------------------------
-To copy the files to linux, write the path without quotation marks, not singles and not doubles.
+##### To copy the files to linux, write the path without quotation marks, not singles and not doubles.
 --------------------------------------------------------------------------------------------------
 
  To compile the programme on Linux:
