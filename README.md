@@ -160,14 +160,10 @@ Searching contacts file using fstream in C++ - YouTube
 https://www.youtube.com/watch?v=9Z6mWJXR-6M
 
 
-copy folder c++ at DuckDuckGo
-https://duckduckgo.com/?hps=1&q=copy+folder+c%2B%2B&ia=web
+#### Copy folder on C++:
 
 Std::filesystem::copy - C++ - W3cubDocs
 https://docs.w3cub.com/cpp/filesystem/copy.html
-
-Startpage Resultados de la búsqueda
-https://www.startpage.com/sp/search
 
 std::filesystem::filesystem_error - cppreference.com
 https://en.cppreference.com/w/cpp/filesystem/filesystem_error
@@ -186,10 +182,6 @@ https://en.cppreference.com/w/cpp/filesystem/filesystem_error/filesystem_error
 
 https://en.cppreference.com/w/cpp/filesystem/path/native
 
-
-Startpage Resultados de la búsqueda
-https://www.startpage.com/sp/search
-
 copying file using fstream - C++ Forum
 https://cplusplus.com/forum/beginner/189889/
 
@@ -259,10 +251,6 @@ https://www.youtube.com/watch?v=9Z6mWJXR-6M
 C++ Crash Course: File I/O Using fstream - YouTube
 https://www.youtube.com/watch?v=QfglM8DGEgA
 
-
-Startpage Resultados de la búsqueda
-https://www.startpage.com/sp/search
-
 copying file using fstream - C++ Forum
 https://cplusplus.com/forum/beginner/189889/
 
@@ -331,9 +319,6 @@ https://www.youtube.com/watch?v=9Z6mWJXR-6M
 
 C++ Crash Course: File I/O Using fstream - YouTube
 https://www.youtube.com/watch?v=QfglM8DGEgA
-
-
-
 
 C++ Crash Course: File I/O Using fstream - YouTube
 https://www.youtube.com/watch?v=QfglM8DGEgA
