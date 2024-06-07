@@ -464,6 +464,11 @@ Liberar memoria c++ (delete)
 
 https://es.stackoverflow.com/questions/119713/liberar-memoria-c-delete
 
- Forbidden C++
+Forbidden C++
 
 https://www.youtube.com/watch?v=j0_u26Vpb4w
+
+Best practices and design patterns.
+
+
+https://medium.com/@lemapp09/best-practices-and-design-patterns-42c81d12f9ad
