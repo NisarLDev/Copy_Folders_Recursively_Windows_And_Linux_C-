@@ -31,14 +31,15 @@
 
 1 - Tutorial de C++ en español - copy_folder (Copiar carpeta a un destino). Youtube.
 
-https://www.youtube.com/watch?v=kMUG_M6XeWA
+  https://www.youtube.com/watch?v=kMUG_M6XeWA
 
 2 - Tutorial de C++ en español - copy_folder (Copiar carpeta a un destino)
 
-https://jquery-manual.blogspot.com/2015/06/31-tutorial-de-c-en-espanol-copyfolder.html
+  https://jquery-manual.blogspot.com/2015/06/31-tutorial-de-c-en-espanol-copyfolder.html
 
-28. Crear Directorios | Curso de C desde cero - YouTube
-https://www.youtube.com/watch?v=_n1cYj1OZWc
+3 - 28. Crear Directorios | Curso de C desde cero - YouTube
+
+  https://www.youtube.com/watch?v=_n1cYj1OZWc
 
 crear directorio en c++ linux - YouTube
 https://www.youtube.com/results?search_query=crear+directorio+en+c%2B%2B+linux
