@@ -25,6 +25,8 @@
 -------------------------------------------------------------------------------
 ### Bibliography
 
+### The bibliography links are published for purely educational purposes and have served me for purely educational purposes. In no case is my intention in publishing the bibliography to undermine in any way the copyright of the documents shown here. Furthermore, with this I intend to recognize the merits of the authors of the texts that I have used during my learning and that have helped me learn better. Above all, I hope and wish that all this bibliography can serve others as it has served me.
+
 #### About C++
 
 1 - The programming Language 4th Edition in English. Based in C++ 11. Bjarne Stroustrup.
