@@ -25,6 +25,15 @@
 -------------------------------------------------------------------------------
 ### Bibliography
 
+#### About C++
+
+1 - The programming Language 4th Edition in English. Based in C++ 11. Bjarne Stroustrup.
+
+   https://chenweixiang.github.io/docs/The_C++_Programming_Language_4th_Edition_Bjarne_Stroustrup.pdf
+
+2 - El lenguaje de programación C++. 1ª edición. En español.
+
+   https://elhacker.info/manuales/Lenguajes%20de%20Programacion/C++/El%20Lenguaje%20de%20Programaci%C3%B3n%20C++%20-%20Stroustrup_fixed.pdf
 
 #### For Windows Operating System
 
@@ -470,7 +479,6 @@ Forbidden C++
 https://www.youtube.com/watch?v=j0_u26Vpb4w
 
 Best practices and design patterns.
-
 
 https://medium.com/@lemapp09/best-practices-and-design-patterns-42c81d12f9ad
 
