@@ -41,7 +41,7 @@
 
 3 - Programming in C++. David Bednárek. 2022.
 
-https://www.ksi.mff.cuni.cz/teaching/nprg041-web/nprg041-intro.en.pdf
+   https://www.ksi.mff.cuni.cz/teaching/nprg041-web/nprg041-intro.en.pdf
 
 
 #### For Windows Operating System
