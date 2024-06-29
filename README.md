@@ -58,8 +58,9 @@
 
   https://www.youtube.com/results?search_query=crear+directorio+en+c%2B%2B+linux
 
-path - Emulating mkdir -p with the C++ standard library - Stack Overflow
-https://stackoverflow.com/questions/63055147/emulating-mkdir-p-with-the-c-standard-library
+5 - Path - Emulating mkdir -p with the C++ standard library - Stack Overflow
+
+  https://stackoverflow.com/questions/63055147/emulating-mkdir-p-with-the-c-standard-library
 
 visual studio 2008 - mkdir c++ function - Stack Overflow
 https://stackoverflow.com/questions/10402499/mkdir-c-function?noredirect=1&lq=1
