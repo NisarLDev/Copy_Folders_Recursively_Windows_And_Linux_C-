@@ -1,4 +1,4 @@
-## Copy Folders Recursively Windows And Linux C++ number Version 17
+## Copy folders recursively from Windows and Linux C++ Version 17
 
 --------------------------------------------------------------------------------------------------
 ##### These programs only copy folders recursively. They don't change their permissions. 
