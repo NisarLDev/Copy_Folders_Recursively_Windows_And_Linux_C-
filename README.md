@@ -39,6 +39,9 @@
 
    https://elhacker.info/manuales/Lenguajes%20de%20Programacion/C++/El%20Lenguaje%20de%20Programaci%C3%B3n%20C++%20-%20Stroustrup_fixed.pdf
 
+3 - Programming in C++. David Bednárek. 2022.
+
+https://www.ksi.mff.cuni.cz/teaching/nprg041-web/nprg041-intro.en.pdf
 #### For Windows Operating System
 
 
