@@ -33,6 +33,8 @@
 
    https://chenweixiang.github.io/docs/The_C++_Programming_Language_4th_Edition_Bjarne_Stroustrup.pdf
 
+   https://github.com/boydfd/books/blob/master/seeing/stalled/2013%20Stroustrup%20-%20The%20C%2B%2B%20Programming%20Language%204th%20Edition.pdf
+
 2 - El lenguaje de programación C++. 1ª edición. En español.
 
    https://elhacker.info/manuales/Lenguajes%20de%20Programacion/C++/El%20Lenguaje%20de%20Programaci%C3%B3n%20C++%20-%20Stroustrup_fixed.pdf
