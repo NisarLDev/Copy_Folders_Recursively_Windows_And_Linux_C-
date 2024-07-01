@@ -571,7 +571,7 @@
   
   https://www.youtube.com/watch?v=lZudRuguEC8
 
-34 - [C++ Quick Start Part 3/4] Read, write, and parse files(fstream, string, & stringstream) in 31 min. - YouTube
+34 - [C++ Quick Start Part 3/4] Read, write, and parse files(fstream, string, & stringstream) in 31 min. - YouTube.
   
   https://www.youtube.com/watch?v=CAqX8YT4lHI
 
