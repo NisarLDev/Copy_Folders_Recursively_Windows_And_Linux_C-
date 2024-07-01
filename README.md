@@ -378,7 +378,7 @@
 
   https://www.youtube.com/watch?v=BOe9ulboOUo
 
-40 - Streams - What is INPUT and OUTPUT [ C++ FILE Handling ] - YouTube
+40 - Streams - What is INPUT and OUTPUT [ C++ FILE Handling ] - YouTube.
 
   https://www.youtube.com/watch?v=I0jbnrJM5zY&list=PLiekDZFMHZAxPhb6UYI3N1IrQzpsMRh6Y
 
