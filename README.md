@@ -559,7 +559,7 @@
 
   https://www.youtube.com/watch?v=QnCVoYnLIg8
 
-31 - C++ File Handling | Creating and Opening | fstream, ifstream, ofstream | Video Tutorial - YouTube
+31 - C++ File Handling | Creating and Opening | fstream, ifstream, ofstream | Video Tutorial - YouTube.
   
   https://www.youtube.com/watch?v=rkJJzH-ymg8
 
