@@ -294,7 +294,7 @@
 
   https://www.youtube.com/watch?v=EaHFhms_Shw
 
-20 - CodeBeauty - YouTube
+20 - CodeBeauty - YouTube.
 
   https://www.youtube.com/@CodeBeauty/videos
 
