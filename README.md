@@ -487,7 +487,7 @@
 
   https://github.com/bpftrace/bpftrace/issues/2856
 
-13 - Make error: undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()' · Issue #103 · stefanhaustein/TerminalImageViewer
+13 - Make error: undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()' · Issue #103 · stefanhaustein/TerminalImageViewer.
   
   https://github.com/stefanhaustein/TerminalImageViewer/issues/103
 
