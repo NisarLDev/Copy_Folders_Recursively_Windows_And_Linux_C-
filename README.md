@@ -511,7 +511,7 @@
 
   https://stackoverflow.com/questions/14378192/how-to-use-c-to-copy-a-directory
 
-19 - std::filesystem::copy - cppreference.com
+19 - std::filesystem::copy - cppreference.com.
 
   https://en.cppreference.com/w/cpp/filesystem/copy
 
