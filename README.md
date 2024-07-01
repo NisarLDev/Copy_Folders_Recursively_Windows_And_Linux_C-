@@ -123,8 +123,9 @@
 
   https://jquery-manual.blogspot.com/2015/06/31-tutorial-de-c-en-espanol-copyfolder.html
 
-Sitio seguro no disponible
-https://www.programacionenc.net/index.php?option=com_content&view=article&id=124:copiar-o-mover-un-archivo-de-una-carpeta-a-otra&catid=31:general&Itemid=41
+20 - Copiar o mover un archivo de una carpeta a otra.
+
+  https://www.programacionenc.net/index.php?option=com_content&view=article&id=124:copiar-o-mover-un-archivo-de-una-carpeta-a-otra&catid=31:general&Itemid=41
 
 Copiar y borrar directorios (cp, mv, rm) | Linux, C/C++, Apuntes, etc…
 https://baulderasec.wordpress.com/programacion/primeros-pasos-con-linux/copiar-y-borrar-directorios-cp-mv-rm/
