@@ -218,7 +218,7 @@
 
 #### Copy folder on C++:
 
-1 - Std::filesystem::copy - C++ - W3cubDocs
+1 - Std::filesystem::copy - C++ - W3cubDocs.
 
   https://docs.w3cub.com/cpp/filesystem/copy.html
 
