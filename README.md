@@ -426,7 +426,7 @@
 
   https://www.youtube.com/watch?v=QfglM8DGEgA
 
-52 - C++ Crash Course: File I/O Using fstream - YouTube
+52 - C++ Crash Course: File I/O Using fstream - YouTube.
 
   https://www.youtube.com/watch?v=QfglM8DGEgA
 
