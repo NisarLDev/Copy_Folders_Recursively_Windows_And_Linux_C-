@@ -555,7 +555,7 @@
 
   https://www.youtube.com/watch?v=etQX4Mme2f4
 
-30 - Input File Streams in C++ (Reading from Files) - YouTube
+30 - Input File Streams in C++ (Reading from Files) - YouTube.
 
   https://www.youtube.com/watch?v=QnCVoYnLIg8
 
