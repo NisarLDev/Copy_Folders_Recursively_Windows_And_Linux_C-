@@ -515,7 +515,7 @@
 
   https://en.cppreference.com/w/cpp/filesystem/copy
 
-20 - std::filesystem::path::c_str, std::filesystem::path::native, std::filesystem::path::operator string_type() - cppreference.com
+20 - std::filesystem::path::c_str, std::filesystem::path::native, std::filesystem::path::operator string_type() - cppreference.com.
 
   https://en.cppreference.com/w/cpp/filesystem/path/native
 
