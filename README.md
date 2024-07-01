@@ -270,7 +270,7 @@
 
   https://www.quora.com/How-do-you-copy-a-directory-in-C
 
-14 - How to Copy a File or Directory in Linux (cp command) - Studytonight
+14 - How to Copy a File or Directory in Linux (cp command) - Studytonight.
 
   https://www.studytonight.com/linux-guide/how-to-copy-a-file-or-directory-in-linux-cp-command
 
