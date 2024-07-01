@@ -451,7 +451,7 @@
   
   https://linuxtldr.com/installing-c-cpp-compiler/
 
-4 - C++ Tiro (o consecuencia) en el NULO argumento de la función dejando frente a todo volar? - Desbordamiento De Pila
+4 - C++ Tiro (o consecuencia) en el NULO argumento de la función dejando frente a todo volar? - Desbordamiento De Pila.
  
   https://stackoverflow.com/questions/3395023/throw-or-correspondingly-on-null-function-argument-versus-letting-it-all-blow
 
