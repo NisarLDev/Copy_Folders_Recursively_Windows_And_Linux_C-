@@ -246,7 +246,7 @@
 
   https://en.cppreference.com/w/cpp/filesystem/path/native
 
-8 - Copying file using fstream - C++ Forum
+8 - Copying file using fstream - C++ Forum. Oficial forum.
 
   https://cplusplus.com/forum/beginner/189889/
 
