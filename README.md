@@ -358,7 +358,7 @@
 
   https://en.cppreference.com/w/cpp/filesystem/path/native
 
-35 - How to copy a directory in C++ - Quora
+35 - How to copy a directory in C++ - Quora.
 
   https://www.quora.com/How-do-you-copy-a-directory-in-C
 
