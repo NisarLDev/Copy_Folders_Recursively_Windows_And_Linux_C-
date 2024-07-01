@@ -127,11 +127,9 @@
 
   https://www.programacionenc.net/index.php?option=com_content&view=article&id=124:copiar-o-mover-un-archivo-de-una-carpeta-a-otra&catid=31:general&Itemid=41
 
-Copiar y borrar directorios (cp, mv, rm) | Linux, C/C++, Apuntes, etc…
-https://baulderasec.wordpress.com/programacion/primeros-pasos-con-linux/copiar-y-borrar-directorios-cp-mv-rm/
+21 - Compatibilidad de la acción Abrir carpeta con sistemas de compilación de C++ en Visual Studio | Microsoft Learn
 
-Compatibilidad de la acción Abrir carpeta con sistemas de compilación de C++ en Visual Studio | Microsoft Learn
-https://learn.microsoft.com/es-es/cpp/build/open-folder-projects-cpp?view=msvc-170
+  https://learn.microsoft.com/es-es/cpp/build/open-folder-projects-cpp?view=msvc-170
 
 copying file using fstream - C++ Forum
 https://cplusplus.com/forum/beginner/189889/
