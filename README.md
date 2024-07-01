@@ -607,7 +607,7 @@
 
   https://www.youtube.com/watch?v=j0_u26Vpb4w
 
-43 - Best practices and design patterns.
+43 - Best practices and design patterns. @lemapp09. Medium.
 
   https://medium.com/@lemapp09/best-practices-and-design-patterns-42c81d12f9ad
 
