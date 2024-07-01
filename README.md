@@ -459,11 +459,10 @@
 
   https://en.cppreference.com/w/cpp/string/basic_string
 
-cplusplus.com/reference/string/string/
-https://cplusplus.com/reference/string/string/
+6 - cplusplus.com/reference/string/string/
 
-cplusplus.com/reference/string/string/string/
-https://cplusplus.com/reference/string/string/string/
+  https://cplusplus.com/reference/string/string/
+
 
 std::string class in C++ - GeeksforGeeks
 https://www.geeksforgeeks.org/stdstring-class-in-c/
