@@ -111,8 +111,9 @@
 
   https://hackernoon.com/es/escribir-y-compilar-c-en-linux-a-how-to-guide-ddi032di
 
-Copiar y borrar directorios (cp, mv, rm) | Linux, C/C++, Apuntes, etc…
-https://baulderasec.wordpress.com/programacion/primeros-pasos-con-linux/copiar-y-borrar-directorios-cp-mv-rm/
+17 - Copiar y borrar directorios (cp, mv, rm) | Linux, C/C++, Apuntes, etc…
+
+  https://baulderasec.wordpress.com/programacion/primeros-pasos-con-linux/copiar-y-borrar-directorios-cp-mv-rm/
 
 31 - Tutorial de C++ en español - copy_folder (Copiar carpeta a un destino) - YouTube
 https://www.youtube.com/watch?v=kMUG_M6XeWA
