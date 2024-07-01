@@ -591,7 +591,7 @@
 
   https://antares.sip.ucm.es/cpareja/libroCPP/docs/6%20-%20memoria%20din%C3%A1mica%20-%20completo.pdf
 
-39 - Asignación y liberación dinámica de memoria
+39 - Asignación y liberación dinámica de la memoria. Codingame.
 
   https://www.codingame.com/playgrounds/51214/manejo-dinamico-de-memoria-y-polimorfismo-practica-4/asignacion-y-liberacion-dinamica-de-memoria
 
