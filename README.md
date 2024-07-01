@@ -298,8 +298,9 @@
 
   https://www.youtube.com/@CodeBeauty/videos
 
-What is "using namespace std" and why is it considered a BAD PRACTICE? C++ Programming Questions - YouTube
-https://www.youtube.com/watch?v=etQX4Mme2f4
+21 - What is "using namespace std" and why is it considered a BAD PRACTICE? C++ Programming Questions - YouTube
+
+  https://www.youtube.com/watch?v=etQX4Mme2f4
 
 Input File Streams in C++ (Reading from Files) - YouTube
 https://www.youtube.com/watch?v=QnCVoYnLIg8
