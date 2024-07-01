@@ -91,7 +91,7 @@
 
   https://baulderasec.wordpress.com/programando-2/programacion-con-linux/1-primeras-nociones/1-3-trazado-del-sistema-de-desarrollo/1-3-1-bibliotecas-estaticas/
 
-12 - Propiedades de C o C++ (C++ para Linux) | Microsoft Learn
+12 - Propiedades de C o C++ (C++ para Linux) | Microsoft Learn.
 
   https://learn.microsoft.com/es-es/cpp/linux/prop-pages/c-cpp-linux?view=msvc-170
 
