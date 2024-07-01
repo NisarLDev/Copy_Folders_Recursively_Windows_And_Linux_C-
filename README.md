@@ -455,7 +455,7 @@
  
   https://stackoverflow.com/questions/3395023/throw-or-correspondingly-on-null-function-argument-versus-letting-it-all-blow
 
-5 - std::basic_string - cppreference.com
+5 - std::basic_string - cppreference.com.
 
   https://en.cppreference.com/w/cpp/string/basic_string
 
