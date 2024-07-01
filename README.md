@@ -242,7 +242,7 @@
 
   https://en.cppreference.com/w/cpp/filesystem/filesystem_error/filesystem_error
 
-7 - std::filesystem::path::native - Returns the path in native pathname format converted to a string 
+7 - std::filesystem::path::c_str, std::filesystem::path::native, std::filesystem::path::operator string_type() - cppreference.com - Returns the path in native pathname format converted to a string 
 
   https://en.cppreference.com/w/cpp/filesystem/path/native
 
@@ -265,9 +265,6 @@
 12 - std::filesystem::copy - cppreference.com
 
   https://en.cppreference.com/w/cpp/filesystem/copy
-
-std::filesystem::path::c_str, std::filesystem::path::native, std::filesystem::path::operator string_type() - cppreference.com
-https://en.cppreference.com/w/cpp/filesystem/path/native
 
 How to copy a directory in C++ - Quora
 https://www.quora.com/How-do-you-copy-a-directory-in-C
