@@ -254,7 +254,7 @@
 
   https://www.quora.com/How-do-you-copy-a-directory-in-C
 
-10 - std::basic_fstream - cppreference.com
+10 - std::basic_fstream - cppreference.com.
  
   https://en.cppreference.com/w/cpp/io/basic_fstream
 
