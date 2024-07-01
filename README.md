@@ -483,8 +483,9 @@
 
   https://stackoverflow.com/questions/62988629/c-stdfilesystemfilesystem-error-exception-trying-to-read-system-volume-inf
 
-terminate called after throwing an instance of 'std::filesystem::__cxx11::filesystem_error' · Issue #2856 · bpftrace/bpftrace
-https://github.com/bpftrace/bpftrace/issues/2856
+12 - Terminate called after throwing an instance of 'std::filesystem::__cxx11::filesystem_error' · Issue #2856 · bpftrace/bpftrace
+
+  https://github.com/bpftrace/bpftrace/issues/2856
 
 Make error: undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()' · Issue #103 · stefanhaustein/TerminalImageViewer
 https://github.com/stefanhaustein/TerminalImageViewer/issues/103
