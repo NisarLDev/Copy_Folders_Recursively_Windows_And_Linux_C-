@@ -115,7 +115,7 @@
 
   https://baulderasec.wordpress.com/programacion/primeros-pasos-con-linux/copiar-y-borrar-directorios-cp-mv-rm/
 
-18 - 31 - Tutorial de C++ en español - copy_folder (Copiar carpeta a un destino) - YouTube
+18 - 31 - Tutorial de C++ en español - copy_folder (Copiar carpeta a un destino) - YouTube.
 
   https://www.youtube.com/watch?v=kMUG_M6XeWA
 
