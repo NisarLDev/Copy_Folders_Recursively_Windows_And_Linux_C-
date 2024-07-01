@@ -18,7 +18,7 @@
 
  5 - Select the destination folder path on the screen.
 
- 6 - Operation is finished
+ 6 - Operation is finished.
  
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
