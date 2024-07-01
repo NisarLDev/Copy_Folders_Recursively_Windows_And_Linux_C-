@@ -463,9 +463,9 @@
 
   https://cplusplus.com/reference/string/string/
 
+6 - std::string class in C++ - GeeksforGeeks
 
-std::string class in C++ - GeeksforGeeks
-https://www.geeksforgeeks.org/stdstring-class-in-c/
+  https://www.geeksforgeeks.org/stdstring-class-in-c/
 
 copy folder c++ at DuckDuckGo
 https://duckduckgo.com/?hps=1&q=copy+folder+c%2B%2B&ia=web
