@@ -467,7 +467,7 @@
 
   https://www.geeksforgeeks.org/stdstring-class-in-c/
 
-8 - Copy folder c++ at DuckDuckGo
+8 - Copy folder c++ at DuckDuckGo.
 
   https://duckduckgo.com/?hps=1&q=copy+folder+c%2B%2B&ia=web
 
