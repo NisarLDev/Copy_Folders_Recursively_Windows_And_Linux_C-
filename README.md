@@ -507,7 +507,7 @@
   
   https://en.cppreference.com/w/cpp/io/basic_fstream
 
-18 - Windows - How to use C++ to Copy A Directory - Stack Overflow
+18 - Windows - How to use C++ to Copy A Directory - Stack Overflow.
 
   https://stackoverflow.com/questions/14378192/how-to-use-c-to-copy-a-directory
 
