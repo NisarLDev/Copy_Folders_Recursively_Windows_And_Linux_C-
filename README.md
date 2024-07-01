@@ -107,8 +107,9 @@
 
   https://github.com/CrysoK/WLCM/blob/main/Ejemplo1/src/main.c
 
-Escribir y compilar C++ en Linux [Una guía práctica] | HackerNoon
-https://hackernoon.com/es/escribir-y-compilar-c-en-linux-a-how-to-guide-ddi032di
+16 - Escribir y compilar C++ en Linux [Una guía práctica] | HackerNoon
+
+  https://hackernoon.com/es/escribir-y-compilar-c-en-linux-a-how-to-guide-ddi032di
 
 Copiar y borrar directorios (cp, mv, rm) | Linux, C/C++, Apuntes, etc…
 https://baulderasec.wordpress.com/programacion/primeros-pasos-con-linux/copiar-y-borrar-directorios-cp-mv-rm/
