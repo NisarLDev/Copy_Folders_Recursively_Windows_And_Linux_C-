@@ -599,9 +599,9 @@
 
   https://www.codingame.com/playgrounds/58302/using-pragma-for-compile-optimization
 
-Liberar memoria c++ (delete)
+41 - Liberar memoria c++ (delete)
 
-https://es.stackoverflow.com/questions/119713/liberar-memoria-c-delete
+  https://es.stackoverflow.com/questions/119713/liberar-memoria-c-delete
 
 Forbidden C++
 
