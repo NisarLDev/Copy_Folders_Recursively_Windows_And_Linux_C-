@@ -567,8 +567,9 @@
  
   https://www.youtube.com/watch?v=13TrhiKLZg8
 
-C++: gestione dei file con la libreria fstream - YouTube
-https://www.youtube.com/watch?v=lZudRuguEC8
+33 - C++: gestione dei file con la libreria fstream - YouTube
+  
+  https://www.youtube.com/watch?v=lZudRuguEC8
 
 [C++ Quick Start Part 3/4] Read, write, and parse files(fstream, string, & stringstream) in 31 min. - YouTube
 https://www.youtube.com/watch?v=CAqX8YT4lHI
