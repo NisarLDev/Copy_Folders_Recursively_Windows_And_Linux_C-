@@ -274,7 +274,7 @@
 
   https://www.studytonight.com/linux-guide/how-to-copy-a-file-or-directory-in-linux-cp-command
 
-15 - Fstream copy folder - YouTube
+15 - Fstream copy folder - YouTube.
 
   https://www.youtube.com/results?search_query=fstream+copy+folder
 
