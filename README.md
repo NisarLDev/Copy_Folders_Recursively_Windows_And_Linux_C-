@@ -207,8 +207,9 @@
 
   https://www.youtube.com/watch?v=CAqX8YT4lHI
 
-Read A File And Display Its Contents | C++ Example - YouTube
-https://www.youtube.com/watch?v=tma4agtKt6Q
+42 - Read A File And Display Its Contents | C++ Example - YouTube
+
+  https://www.youtube.com/watch?v=tma4agtKt6Q
 
 Searching contacts file using fstream in C++ - YouTube
 https://www.youtube.com/watch?v=9Z6mWJXR-6M
