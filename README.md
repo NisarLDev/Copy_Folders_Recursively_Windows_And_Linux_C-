@@ -463,7 +463,7 @@
   
   https://cplusplus.com/reference/string/string/
 
-7 - std::string class in C++ - GeeksforGeeks
+7 - std::string class in C++ - GeeksforGeeks.
 
   https://www.geeksforgeeks.org/stdstring-class-in-c/
 
