@@ -322,7 +322,7 @@
 
   https://www.youtube.com/watch?v=CAqX8YT4lHI
 
-26 - Read A File And Display Its Contents | C++ Example - YouTube
+26 - Read A File And Display Its Contents | C++ Example - YouTube.
 
   https://www.youtube.com/watch?v=tma4agtKt6Q
 
