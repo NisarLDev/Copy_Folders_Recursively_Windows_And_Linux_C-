@@ -242,7 +242,7 @@
 
   https://en.cppreference.com/w/cpp/filesystem/filesystem_error/filesystem_error
 
-7 - std::filesystem::path::c_str, std::filesystem::path::native, std::filesystem::path::operator string_type() - cppreference.com - Returns the path in native pathname format converted to a string 
+7 - std::filesystem::path::c_str, std::filesystem::path::native, std::filesystem::path::operator string_type() - cppreference.com - Returns the path in native pathname format converted to a string.
 
   https://en.cppreference.com/w/cpp/filesystem/path/native
 
