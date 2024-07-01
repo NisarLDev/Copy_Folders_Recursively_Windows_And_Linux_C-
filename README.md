@@ -374,7 +374,7 @@
 
   https://www.youtube.com/watch?v=DJSchIAXhDY
 
-39 - 46 copy the content of one file to another c++ - YouTube
+39 - 46 copy the content of one file to another c++ - YouTube.
 
   https://www.youtube.com/watch?v=BOe9ulboOUo
 
