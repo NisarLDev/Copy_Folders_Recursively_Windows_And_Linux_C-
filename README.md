@@ -459,7 +459,7 @@
 
   https://en.cppreference.com/w/cpp/string/basic_string
 
-6 - String - cplusplus.com 
+6 - String - cplusplus.com.
   
   https://cplusplus.com/reference/string/string/
 
