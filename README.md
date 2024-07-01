@@ -447,8 +447,9 @@
 
   https://www.youtube.com/watch?v=N3sI2L4tFDU
 
-C/C++ Installation and Practical Usage Guide for Linux
-https://linuxtldr.com/installing-c-cpp-compiler/
+3 - C/C++ Installation and Practical Usage Guide for Linux
+  
+  https://linuxtldr.com/installing-c-cpp-compiler/
 
 c++ Tiro (o consecuencia) en el NULO argumento de la función dejando frente a todo volar? - Desbordamiento De Pila
 https://stackoverflow.com/questions/3395023/throw-or-correspondingly-on-null-function-argument-versus-letting-it-all-blow
