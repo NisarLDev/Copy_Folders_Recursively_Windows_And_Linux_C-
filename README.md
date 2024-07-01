@@ -614,3 +614,5 @@
 44 - C++ crash course. Book.
 
   https://lospi.net/c/c++/programming/developing/software/2019/07/28/cpp-crash-course.html
+
+### End of file
