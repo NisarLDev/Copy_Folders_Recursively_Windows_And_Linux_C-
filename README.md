@@ -603,9 +603,9 @@
 
   https://es.stackoverflow.com/questions/119713/liberar-memoria-c-delete
 
-Forbidden C++
+42 - Forbidden C++. YouTube channel on good programming practices in the C++ language.
 
-https://www.youtube.com/watch?v=j0_u26Vpb4w
+  https://www.youtube.com/watch?v=j0_u26Vpb4w
 
 Best practices and design patterns.
 
