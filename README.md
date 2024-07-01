@@ -326,8 +326,9 @@
 
   https://www.youtube.com/watch?v=tma4agtKt6Q
 
-Searching contacts file using fstream in C++ - YouTube
-https://www.youtube.com/watch?v=9Z6mWJXR-6M
+27 - Searching contacts file using fstream in C++ - YouTube
+
+  https://www.youtube.com/watch?v=9Z6mWJXR-6M
 
 C++ Crash Course: File I/O Using fstream - YouTube
 https://www.youtube.com/watch?v=QfglM8DGEgA
