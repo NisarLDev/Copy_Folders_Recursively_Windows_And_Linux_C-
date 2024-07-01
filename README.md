@@ -83,7 +83,7 @@
 
   https://crislosi.wordpress.com/2006/12/30/librerias-para-compilar-en-cc-y-opengl/
 
-10 - Cómo escribir, compilar y ejecutar un programa en C en Linux
+10 - Cómo escribir, compilar y ejecutar un programa en C en Linux.
 
   https://itsfoss.com/es/escribir-compilar-ejecutar-programa-c-ubuntu/
 
