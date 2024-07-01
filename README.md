@@ -370,7 +370,7 @@
 
   https://www.youtube.com/results?search_query=fstream+copy+folder
 
-38 - Fstream Class | Appending to a File in C++ | CPP Programming Video Tutorial - YouTube
+38 - Fstream Class | Appending to a File in C++ | CPP Programming Video Tutorial - YouTube.
 
   https://www.youtube.com/watch?v=DJSchIAXhDY
 
