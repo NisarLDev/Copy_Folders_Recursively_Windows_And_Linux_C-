@@ -12,7 +12,7 @@
 
  2 - Change permissions, add execution permissions: chmod +x binary file.
 
- 3 - Execute binary file
+ 3 - Execute binary file.
 
  4 - Select the original folder path on the screen
 
