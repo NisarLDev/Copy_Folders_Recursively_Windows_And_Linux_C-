@@ -127,7 +127,7 @@
 
   https://www.programacionenc.net/index.php?option=com_content&view=article&id=124:copiar-o-mover-un-archivo-de-una-carpeta-a-otra&catid=31:general&Itemid=41
 
-21 - Compatibilidad de la acción Abrir carpeta con sistemas de compilación de C++ en Visual Studio | Microsoft Learn
+21 - Compatibilidad de la acción Abrir carpeta con sistemas de compilación de C++ en Visual Studio | Microsoft Learn.
 
   https://learn.microsoft.com/es-es/cpp/build/open-folder-projects-cpp?view=msvc-170
 
