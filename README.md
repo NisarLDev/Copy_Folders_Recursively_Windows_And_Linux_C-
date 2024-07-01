@@ -491,7 +491,7 @@
   
   https://github.com/stefanhaustein/TerminalImageViewer/issues/103
 
-14 - std::filesystem::filesystem_error::filesystem_error - cppreference.com
+14 - std::filesystem::filesystem_error::filesystem_error - cppreference.com.
 
   https://en.cppreference.com/w/cpp/filesystem/filesystem_error/filesystem_error
 
