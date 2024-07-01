@@ -386,8 +386,9 @@
   
   https://www.youtube.com/watch?v=EaHFhms_Shw
 
-CodeBeauty - YouTube
-https://www.youtube.com/@CodeBeauty/videos
+42 - CodeBeauty - YouTube
+
+  https://www.youtube.com/@CodeBeauty/videos
 
 What is "using namespace std" and why is it considered a BAD PRACTICE? C++ Programming Questions - YouTube
 https://www.youtube.com/watch?v=etQX4Mme2f4
