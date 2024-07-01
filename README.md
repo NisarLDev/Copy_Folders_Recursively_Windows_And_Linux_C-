@@ -439,8 +439,9 @@
 
 ### Other Bibliography for Linux and C++
 
-c++ - Compile C++17 code on RedHat Linux Enterprise Developer Workstation - Stack Overflow
-https://stackoverflow.com/questions/51255738/compile-c17-code-on-redhat-linux-enterprise-developer-workstation
+1 - C++ - Compile C++17 code on RedHat Linux Enterprise Developer Workstation - Stack Overflow
+
+  https://stackoverflow.com/questions/51255738/compile-c17-code-on-redhat-linux-enterprise-developer-workstation
 
 How to compile and run C/C++ on Fedora 39 Workstation using GNU GCC and G++ compiler - YouTube
 https://www.youtube.com/watch?v=N3sI2L4tFDU
