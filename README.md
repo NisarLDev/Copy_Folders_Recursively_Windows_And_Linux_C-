@@ -71,12 +71,13 @@
  
   https://stackoverflow.com/questions/10402499/mkdir-c-function?noredirect=1&lq=1
 
-7 - C++ how to create a directory from a path - Stack Overflow
+7 - C++ how to create a directory from a path - Stack Overflow.
 
   https://stackoverflow.com/questions/1373889/c-how-to-create-a-directory-from-a-path?rq=3
 
-How to create directory c++ (using _mkdir) - Stack Overflow
-https://stackoverflow.com/questions/57358730/how-to-create-directory-c-using-mkdir?rq=3
+8 - How to create directory c++ (using _mkdir) - Stack Overflow.
+
+  https://stackoverflow.com/questions/57358730/how-to-create-directory-c-using-mkdir?rq=3
 
 Librerías Para Compilar En C/C++ Y OpenGL – Linux Music 3.0
 https://crislosi.wordpress.com/2006/12/30/librerias-para-compilar-en-cc-y-opengl/
