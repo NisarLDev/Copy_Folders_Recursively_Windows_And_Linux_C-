@@ -326,7 +326,7 @@
 
   https://www.youtube.com/watch?v=tma4agtKt6Q
 
-27 - Searching contacts file using fstream in C++ - YouTube
+27 - Searching contacts file using fstream in C++ - YouTube.
 
   https://www.youtube.com/watch?v=9Z6mWJXR-6M
 
