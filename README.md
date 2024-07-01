@@ -459,8 +459,8 @@
 
   https://en.cppreference.com/w/cpp/string/basic_string
 
-6 - cplusplus.com/reference/string/string/
-
+6 - String - cplusplus.com 
+  
   https://cplusplus.com/reference/string/string/
 
 7 - std::string class in C++ - GeeksforGeeks
