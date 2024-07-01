@@ -242,7 +242,9 @@
 
   https://en.cppreference.com/w/cpp/filesystem/filesystem_error/filesystem_error
 
-https://en.cppreference.com/w/cpp/filesystem/path/native
+7 - std::filesystem::path::native - Returns the path in native pathname format converted to a string 
+
+  https://en.cppreference.com/w/cpp/filesystem/path/native
 
 copying file using fstream - C++ Forum
 https://cplusplus.com/forum/beginner/189889/
