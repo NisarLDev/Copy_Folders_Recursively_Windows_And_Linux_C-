@@ -131,8 +131,9 @@
 
   https://learn.microsoft.com/es-es/cpp/build/open-folder-projects-cpp?view=msvc-170
 
-copying file using fstream - C++ Forum
-https://cplusplus.com/forum/beginner/189889/
+22 - copying file using fstream - C++ Forum. Oficial forum.
+
+  https://cplusplus.com/forum/beginner/189889/
 
 How to copy a directory in C++ - Quora
 https://www.quora.com/How-do-you-copy-a-directory-in-C
