@@ -310,7 +310,7 @@
   
   https://www.youtube.com/watch?v=rkJJzH-ymg8
 
-24 - C++ Tutorial for Beginners 42 -Create a Text File and Write in It - YouTube
+24 - C++ Tutorial for Beginners 42 -Create a Text File and Write in It - YouTube.
   
   https://www.youtube.com/watch?v=13TrhiKLZg8
 
