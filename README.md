@@ -471,7 +471,7 @@
 
   https://duckduckgo.com/?hps=1&q=copy+folder+c%2B%2B&ia=web
 
-9 - Std::filesystem::copy - C++ - W3cubDocs
+9 - Std::filesystem::copy - C++ - W3cubDocs.
 
   https://docs.w3cub.com/cpp/filesystem/copy.html
 
