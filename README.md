@@ -8,7 +8,7 @@
 
  To compile the programme on Linux:
 
- 1 - g++ name with quotes "Copy_on_Linux.cpp" -o name without quotes 
+ 1 - g++ name with quotes "Copy_on_Linux.cpp" -o name without quotes. 
 
  2 - Change permissions, add execution permissions: chmod +x binary file
 
