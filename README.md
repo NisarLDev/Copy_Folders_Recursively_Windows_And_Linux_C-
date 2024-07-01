@@ -447,7 +447,7 @@
 
   https://www.youtube.com/watch?v=N3sI2L4tFDU
 
-3 - C/C++ Installation and Practical Usage Guide for Linux
+3 - C/C++ Installation and Practical Usage Guide for Linux.
   
   https://linuxtldr.com/installing-c-cpp-compiler/
 
