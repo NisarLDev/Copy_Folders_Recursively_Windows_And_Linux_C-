@@ -583,8 +583,9 @@
   
   https://www.youtube.com/watch?v=9Z6mWJXR-6M
 
-C++ Crash Course: File I/O Using fstream - YouTube
-https://www.youtube.com/watch?v=QfglM8DGEgA
+37 - C++ Crash Course: File I/O Using fstream - YouTube
+  
+  https://www.youtube.com/watch?v=QfglM8DGEgA
 
 Memoria dinámica en C++. Universidad Complutense de Madrid.
 
