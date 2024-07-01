@@ -16,7 +16,7 @@
 
  4 - Select the original folder path on the screen.
 
- 5 - Select the destination folder path on the screen
+ 5 - Select the destination folder path on the screen.
 
  6 - Operation is finished
  
