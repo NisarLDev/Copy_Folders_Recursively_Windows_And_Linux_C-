@@ -222,7 +222,7 @@
 
   https://docs.w3cub.com/cpp/filesystem/copy.html
 
-2 - std::filesystem::filesystem_error - cppreference.com
+2 - std::filesystem::filesystem_error - cppreference.com.
 
   https://en.cppreference.com/w/cpp/filesystem/filesystem_error
 
