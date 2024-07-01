@@ -439,7 +439,7 @@
 
 ### Other Bibliography for Linux and C++
 
-1 - C++ - Compile C++17 code on RedHat Linux Enterprise Developer Workstation - Stack Overflow
+1 - C++ - Compile C++17 code on RedHat Linux Enterprise Developer Workstation - Stack Overflow.
 
   https://stackoverflow.com/questions/51255738/compile-c17-code-on-redhat-linux-enterprise-developer-workstation
 
