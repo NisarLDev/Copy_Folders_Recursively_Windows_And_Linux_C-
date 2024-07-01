@@ -119,7 +119,7 @@
 
   https://www.youtube.com/watch?v=kMUG_M6XeWA
 
-19 - 31 - Tutorial de C++ en español - copy_folder (Copiar carpeta a un destino) | jQuery Manual
+19 - 31 - Tutorial de C++ en español - copy_folder (Copiar carpeta a un destino) | jQuery Manual.
 
   https://jquery-manual.blogspot.com/2015/06/31-tutorial-de-c-en-espanol-copyfolder.html
 
