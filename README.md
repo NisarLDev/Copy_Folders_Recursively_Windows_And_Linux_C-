@@ -390,7 +390,7 @@
 
   https://www.youtube.com/@CodeBeauty/videos
 
-43 - What is "using namespace std" and why is it considered a BAD PRACTICE? C++ Programming Questions - YouTube
+43 - What is "using namespace std" and why is it considered a BAD PRACTICE? C++ Programming Questions - YouTube.
 
   https://www.youtube.com/watch?v=etQX4Mme2f4
 
