@@ -51,23 +51,23 @@
 
   https://www.youtube.com/watch?v=kMUG_M6XeWA
 
-2 - Tutorial de C++ en español - copy_folder (Copiar carpeta a un destino)
+2 - Tutorial de C++ en español - copy_folder (Copiar carpeta a un destino).
 
   https://jquery-manual.blogspot.com/2015/06/31-tutorial-de-c-en-espanol-copyfolder.html
 
-3 - 28. Crear Directorios | Curso de C desde cero - YouTube
+3 - 28. Crear Directorios | Curso de C desde cero - YouTube.
 
   https://www.youtube.com/watch?v=_n1cYj1OZWc
 
-4 - Crear directorio en c++ linux - YouTube
+4 - Crear directorio en c++ linux - YouTube.
 
   https://www.youtube.com/results?search_query=crear+directorio+en+c%2B%2B+linux
 
-5 - Path - Emulating mkdir -p with the C++ standard library - Stack Overflow
+5 - Path - Emulating mkdir -p with the C++ standard library - Stack Overflow.
 
   https://stackoverflow.com/questions/63055147/emulating-mkdir-p-with-the-c-standard-library
 
-6 - Visual Studio 2008 - mkdir c++ function - Stack Overflow
+6 - Visual Studio 2008 - mkdir c++ function - Stack Overflow.
  
   https://stackoverflow.com/questions/10402499/mkdir-c-function?noredirect=1&lq=1
 
@@ -79,8 +79,9 @@
 
   https://stackoverflow.com/questions/57358730/how-to-create-directory-c-using-mkdir?rq=3
 
-Librerías Para Compilar En C/C++ Y OpenGL – Linux Music 3.0
-https://crislosi.wordpress.com/2006/12/30/librerias-para-compilar-en-cc-y-opengl/
+9 - Librerías Para Compilar En C/C++ Y OpenGL – Linux Music 3.0.
+
+  https://crislosi.wordpress.com/2006/12/30/librerias-para-compilar-en-cc-y-opengl/
 
 Cómo escribir, compilar y ejecutar un programa en C en Linux
 https://itsfoss.com/es/escribir-compilar-ejecutar-programa-c-ubuntu/
