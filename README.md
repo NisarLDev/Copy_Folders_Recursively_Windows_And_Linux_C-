@@ -83,8 +83,9 @@
 
   https://crislosi.wordpress.com/2006/12/30/librerias-para-compilar-en-cc-y-opengl/
 
-Cómo escribir, compilar y ejecutar un programa en C en Linux
-https://itsfoss.com/es/escribir-compilar-ejecutar-programa-c-ubuntu/
+10 - Cómo escribir, compilar y ejecutar un programa en C en Linux
+
+  https://itsfoss.com/es/escribir-compilar-ejecutar-programa-c-ubuntu/
 
 1.3.1.- Bibliotecas estáticas | Linux, C/C++, Apuntes, etc…
 https://baulderasec.wordpress.com/programando-2/programacion-con-linux/1-primeras-nociones/1-3-trazado-del-sistema-de-desarrollo/1-3-1-bibliotecas-estaticas/
