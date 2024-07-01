@@ -595,9 +595,9 @@
 
   https://www.codingame.com/playgrounds/51214/manejo-dinamico-de-memoria-y-polimorfismo-practica-4/asignacion-y-liberacion-dinamica-de-memoria
 
-Using Pragma For Compile Optimization
+40 - Using Pragma For Compile Optimization
 
-https://www.codingame.com/playgrounds/58302/using-pragma-for-compile-optimization
+  https://www.codingame.com/playgrounds/58302/using-pragma-for-compile-optimization
 
 Liberar memoria c++ (delete)
 
