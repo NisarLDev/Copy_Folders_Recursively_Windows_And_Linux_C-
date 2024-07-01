@@ -175,7 +175,7 @@
 
   https://www.youtube.com/watch?v=I0jbnrJM5zY&list=PLiekDZFMHZAxPhb6UYI3N1IrQzpsMRh6Y
 
-33 - C++ file handling for beginners! The easiest way to read/write into text files! - YouTube
+33 - C++ file handling for beginners! The easiest way to read/write into text files! - YouTube.
 
   https://www.youtube.com/watch?v=EaHFhms_Shw
 
