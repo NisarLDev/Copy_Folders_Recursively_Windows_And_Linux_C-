@@ -386,7 +386,7 @@
   
   https://www.youtube.com/watch?v=EaHFhms_Shw
 
-42 - CodeBeauty - YouTube
+42 - CodeBeauty - YouTube.
 
   https://www.youtube.com/@CodeBeauty/videos
 
