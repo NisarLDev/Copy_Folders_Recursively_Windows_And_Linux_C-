@@ -95,8 +95,9 @@
 
   https://learn.microsoft.com/es-es/cpp/linux/prop-pages/c-cpp-linux?view=msvc-170
 
-Como compilar y ejecutar archivos c/c++ en linux | Ubuntu - YouTube
-https://www.youtube.com/watch?v=md__aoSM9oo
+13 - Como compilar y ejecutar archivos c/c++ en linux | Ubuntu - YouTube
+
+  https://www.youtube.com/watch?v=md__aoSM9oo
 
 Desarrollo de aplicaciones C y C++ en RHEL 8 Red Hat Enterprise Linux 8 | Red Hat Customer Portal
 https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/8/html-single/developing_c_and_cpp_applications_in_rhel_8/index
