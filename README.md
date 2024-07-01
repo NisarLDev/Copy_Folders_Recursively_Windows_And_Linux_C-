@@ -179,7 +179,7 @@
 
   https://www.youtube.com/watch?v=EaHFhms_Shw
 
-34 - CodeBeauty - YouTube
+34 - CodeBeauty - YouTube.
   
   https://www.youtube.com/@CodeBeauty/videos
 
