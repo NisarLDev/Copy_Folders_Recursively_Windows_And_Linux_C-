@@ -119,8 +119,9 @@
 
   https://www.youtube.com/watch?v=kMUG_M6XeWA
 
-31 - Tutorial de C++ en español - copy_folder (Copiar carpeta a un destino) | jQuery Manual
-https://jquery-manual.blogspot.com/2015/06/31-tutorial-de-c-en-espanol-copyfolder.html
+19 - 31 - Tutorial de C++ en español - copy_folder (Copiar carpeta a un destino) | jQuery Manual
+
+  https://jquery-manual.blogspot.com/2015/06/31-tutorial-de-c-en-espanol-copyfolder.html
 
 Sitio seguro no disponible
 https://www.programacionenc.net/index.php?option=com_content&view=article&id=124:copiar-o-mover-un-archivo-de-una-carpeta-a-otra&catid=31:general&Itemid=41
