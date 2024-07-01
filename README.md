@@ -95,7 +95,7 @@
 
   https://learn.microsoft.com/es-es/cpp/linux/prop-pages/c-cpp-linux?view=msvc-170
 
-13 - Como compilar y ejecutar archivos c/c++ en linux | Ubuntu - YouTube
+13 - Como compilar y ejecutar archivos c/c++ en linux | Ubuntu - YouTube.
 
   https://www.youtube.com/watch?v=md__aoSM9oo
 
