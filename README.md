@@ -443,8 +443,9 @@
 
   https://stackoverflow.com/questions/51255738/compile-c17-code-on-redhat-linux-enterprise-developer-workstation
 
-How to compile and run C/C++ on Fedora 39 Workstation using GNU GCC and G++ compiler - YouTube
-https://www.youtube.com/watch?v=N3sI2L4tFDU
+2 - How to compile and run C/C++ on Fedora 39 Workstation using GNU GCC and G++ compiler - YouTube
+
+  https://www.youtube.com/watch?v=N3sI2L4tFDU
 
 C/C++ Installation and Practical Usage Guide for Linux
 https://linuxtldr.com/installing-c-cpp-compiler/
