@@ -238,8 +238,9 @@
 
   https://github.com/stefanhaustein/TerminalImageViewer/issues/103
 
-std::filesystem::filesystem_error::filesystem_error - cppreference.com
-https://en.cppreference.com/w/cpp/filesystem/filesystem_error/filesystem_error
+6 - std::filesystem::filesystem_error::filesystem_error - cppreference.com
+
+  https://en.cppreference.com/w/cpp/filesystem/filesystem_error/filesystem_error
 
 https://en.cppreference.com/w/cpp/filesystem/path/native
 
