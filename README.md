@@ -107,7 +107,7 @@
 
   https://github.com/CrysoK/WLCM/blob/main/Ejemplo1/src/main.c
 
-16 - Escribir y compilar C++ en Linux [Una guía práctica] | HackerNoon
+16 - Escribir y compilar C++ en Linux [Una guía práctica] | HackerNoon.
 
   https://hackernoon.com/es/escribir-y-compilar-c-en-linux-a-how-to-guide-ddi032di
 
