@@ -567,7 +567,7 @@
  
   https://www.youtube.com/watch?v=13TrhiKLZg8
 
-33 - C++: gestione dei file con la libreria fstream - YouTube
+33 - C++: gestione dei file con la libreria fstream - YouTube.
   
   https://www.youtube.com/watch?v=lZudRuguEC8
 
