@@ -611,6 +611,6 @@
 
   https://medium.com/@lemapp09/best-practices-and-design-patterns-42c81d12f9ad
 
-C++ crash course. Book.
+44 - C++ crash course. Book.
 
-https://lospi.net/c/c++/programming/developing/software/2019/07/28/cpp-crash-course.html
+  https://lospi.net/c/c++/programming/developing/software/2019/07/28/cpp-crash-course.html
