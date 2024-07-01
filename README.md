@@ -483,7 +483,7 @@
 
   https://stackoverflow.com/questions/62988629/c-stdfilesystemfilesystem-error-exception-trying-to-read-system-volume-inf
 
-12 - Terminate called after throwing an instance of 'std::filesystem::__cxx11::filesystem_error' · Issue #2856 · bpftrace/bpftrace
+12 - Terminate called after throwing an instance of 'std::filesystem::__cxx11::filesystem_error' · Issue #2856 · bpftrace/bpftrace.
 
   https://github.com/bpftrace/bpftrace/issues/2856
 
